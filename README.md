@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **salmanmohammed703@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1-xY3-1s5tRy90q1srRU3e52ZdjZBhE4w/view?usp=sharing](https://drive.google.com/file/d/1-xY3-1s5tRy90q1srRU3e52ZdjZBhE4w/view?usp=sharing)
+- 📄 Know about my [experiences](https://drive.google.com/file/d/1-xY3-1s5tRy90q1srRU3e52ZdjZBhE4w/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
