@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mohammed Salman Shaikh</h1>
+<h1 align="center">Hi 👋, I'm Mohammed Salman</h1>
 <h3 align="center">A passionate Full Stack Web developer from India</h3>
 
 - 🔭 I’m currently working on [Strivers SDE Sheet](https://github.com/Mohammed-Salman-Shaikh/Strivers-SDE-Sheet-Challenge)
