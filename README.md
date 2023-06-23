@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Mohammed Salman</h1>
-<h3 align="center">A passionate Fullstack Web developer</h3>
+<h1 align="center">Hi 👋, I'm Mohammed Salman Shaikh</h1>
+<h3 align="center">A passionate Full Stack Web developer from India</h3>
 
 - 🔭 I’m currently working on [Strivers SDE Sheet](https://github.com/Mohammed-Salman-Shaikh/Strivers-SDE-Sheet-Challenge)
 
@@ -7,13 +7,13 @@
 
 - 🤝 I’m looking for help with [Ecommerce Web App](https://github.com/Mohammed-Salman-Shaikh/Ecommerce-Web-App.git)
 
-- 👨‍💻 All of my projects are available at [https://mohammed-salman-shaikh.github.io/Portfolio/](https://mohammed-salman-shaikh.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://mohammed-salman-shaikh.github.io/Portfolio/)
 
 - 💬 Ask me about **HFT**
 
 - 📫 How to reach me **salmanmohammed703@gmail.com**
 
-- 📄 Know about my [experiences](https://drive.google.com/file/d/1-xY3-1s5tRy90q1srRU3e52ZdjZBhE4w/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1-xY3-1s5tRy90q1srRU3e52ZdjZBhE4w/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -21,9 +21,10 @@
 <a href="https://linkedin.com/in/mohammed--salman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammed--salman" height="30" width="40" /></a>
 <a href="https://fb.com/100007515610704" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="100007515610704" height="30" width="40" /></a>
 <a href="https://instagram.com/salluarsh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="salluarsh" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@arshahamed7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@arshahamed7" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/user3601n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="user3601n" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/salluarsh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="salluarsh" height="30" width="40" /></a>
-<a href="https://www.codingninjas.com/codestudio/profile/d509ed54-f725-4d73-ad49-f4d9a447381c" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://www.codingninjas.com/codestudio/profile/d509ed54-f725-4d73-ad49-f4d9a447381c" height="30" width="40" /></a>
+<a href="/https://www.codingninjas.com/codestudio/profile/d509ed54-f725-4d73-ad49-f4d9a447381c" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="salluarsh" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -33,19 +34,3 @@
 <p><a href="https://www.buymeacoffee.com/https://bmc.link/salluarsh"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://bmc.link/salluarsh" /></a></p><br><br>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohammed-salman-shaikh&" alt="mohammed-salman-shaikh" /></p>
-
-
-<!--
-**Mohammed-Salman-Shaikh/Mohammed-Salman-Shaikh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
