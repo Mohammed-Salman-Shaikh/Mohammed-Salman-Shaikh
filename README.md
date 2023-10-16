@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Salman</h1>
 <h3 align="center">A passionate Full Stack Web developer from India</h3>
 
-- 🔭 I’m currently working on [Strivers SDE Sheet](https://github.com/Mohammed-Salman-Shaikh/Strivers-SDE-Sheet-Challenge)
+- 🔭 I’m building strong [Portfolio](https://mohammed-salman.vercel.app/)
 
 - 🌱 I’m currently learning **react specifically for MERN Stack**
 
 - 🤝 I’m looking for help with [Ecommerce Web App](https://github.com/Mohammed-Salman-Shaikh/Ecommerce-Web-App.git)
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://mohammed-salman-shaikh.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://mohammed-salman.vercel.app/project)
 
 - 💬 Ask me about **HFT**
 
-- 📫 How to reach me **salmanmohammed703@gmail.com**
+- 📫 You can reach me by [mail](salmanmohammed703+github@gmail.com)
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1-xY3-1s5tRy90q1srRU3e52ZdjZBhE4w/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://mohammed-salman.vercel.app/resume)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
