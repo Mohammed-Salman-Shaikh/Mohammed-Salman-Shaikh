@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Salman</h1>
 <h3 align="center">A passionate Full Stack Web developer from India</h3>
 
-- 🔭 I’m building strong [Portfolio](https://mohammed-salman.vercel.app/)
+- 🔭 Building a strong [Portfolio](https://mohammed-salman.vercel.app/)
 
 - 🌱 I’m currently learning **react specifically for MERN Stack**
 
