@@ -3,7 +3,7 @@
 
 - 🔭 Building a strong [Portfolio](https://mohammed-salman.vercel.app/)
 
-- 🌱 I’m currently learning **react specifically for MERN Stack**
+- 🌱 I’m currently learning/building **MERN Stack Project**
 
 - 🤝 I’m looking for help with [Ecommerce Web App](https://github.com/Mohammed-Salman-Shaikh/Ecommerce-Web-App.git)
 
