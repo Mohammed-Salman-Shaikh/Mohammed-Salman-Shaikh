@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning/building **MERN Stack Project**
 
-- 🤝 I’m looking for help with [Ecommerce Web App](https://github.com/Mohammed-Salman-Shaikh/Ecommerce-Web-App.git)
+- 🤝 I’m looking for help with [ChatIQ Web App](https://github.com/Mohammed-Salman-Shaikh/ChatIQ)
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://mohammed-salman.vercel.app/project)
 
