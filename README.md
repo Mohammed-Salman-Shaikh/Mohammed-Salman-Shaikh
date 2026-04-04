@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Salman</h1>
-<h3 align="center">A passionate Full Stack Web developer from India</h3>
+<h3 align="center">A passionate Java Full Stack Web developer from India</h3>
 
 - 🔭 Building a strong [Portfolio](https://mohammed-salman.vercel.app/)
 
-- 🌱 I’m currently building **AEM (Adobe Experience Manager) Project**
+- 🌱 I’m currently working on **AEM Project** at Capgemini(https://www.capgemini.com/) as a AEM Developer.
 
-- 🤝 I’m looking for help with [ChatIQ Web App](https://github.com/Mohammed-Salman-Shaikh/ChatIQ)
+- 🤝 I’m currently building Java Full Stack Application.
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://mohammed-salman.vercel.app/project)
 
