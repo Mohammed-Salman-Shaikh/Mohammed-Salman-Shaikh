@@ -3,7 +3,7 @@
 
 - 🔭 Building a strong [Portfolio](https://mohammed-salman.vercel.app/)
 
-- 🌱 I’m currently learning/building **MERN Stack Project**
+- 🌱 I’m currently building **AEM (Adobe Experience Manager) Project**
 
 - 🤝 I’m looking for help with [ChatIQ Web App](https://github.com/Mohammed-Salman-Shaikh/ChatIQ)
 
