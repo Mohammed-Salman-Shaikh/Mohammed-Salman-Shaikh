@@ -51,16 +51,6 @@
   </picture>
 </p>
 
-## Rate my portfolio
-
-How does **[Mohammed-Salman-Shaikh.github.io](https://Mohammed-Salman-Shaikh.github.io/)** look to you? Click a badge to vote (it opens a pre-filled GitHub issue, just press Submit).
-
-<p align="center">
-  <a href="https://github.com/Mohammed-Salman-Shaikh/Mohammed-Salman-Shaikh/issues/new?title=Portfolio%20rating%3A%20Great&body=Thanks%20for%20rating%20my%20portfolio%3A%20https%3A//Mohammed-Salman-Shaikh.github.io/%0A%0ASubmit%20this%20issue%20to%20count%20your%20vote.%20Any%20feedback%20below%20is%20welcome.%0A%0A"><img src="https://raw.githubusercontent.com/Mohammed-Salman-Shaikh/Mohammed-Salman-Shaikh/poll-output/great.svg" alt="Vote Great" /></a>
-  <a href="https://github.com/Mohammed-Salman-Shaikh/Mohammed-Salman-Shaikh/issues/new?title=Portfolio%20rating%3A%20Good&body=Thanks%20for%20rating%20my%20portfolio%3A%20https%3A//Mohammed-Salman-Shaikh.github.io/%0A%0ASubmit%20this%20issue%20to%20count%20your%20vote.%20Any%20feedback%20below%20is%20welcome.%0A%0A"><img src="https://raw.githubusercontent.com/Mohammed-Salman-Shaikh/Mohammed-Salman-Shaikh/poll-output/good.svg" alt="Vote Good" /></a>
-  <a href="https://github.com/Mohammed-Salman-Shaikh/Mohammed-Salman-Shaikh/issues/new?title=Portfolio%20rating%3A%20Needs%20work&body=Thanks%20for%20rating%20my%20portfolio%3A%20https%3A//Mohammed-Salman-Shaikh.github.io/%0A%0ASubmit%20this%20issue%20to%20count%20your%20vote.%20Any%20feedback%20below%20is%20welcome.%0A%0A"><img src="https://raw.githubusercontent.com/Mohammed-Salman-Shaikh/Mohammed-Salman-Shaikh/poll-output/needs-work.svg" alt="Vote Needs work" /></a>
-</p>
-
 ## Find me elsewhere
 
 <p align="left">
