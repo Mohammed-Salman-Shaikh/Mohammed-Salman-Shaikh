@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="127" height="28" role="img" aria-label="Good: 0 votes">
+<title>Good: 0 votes</title>
+<rect width="53" height="28" fill="#555"/>
+<rect x="53" width="74" height="28" fill="#2ea44f"/>
+<g fill="#fff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
+<text x="26.5" y="18.5">Good</text>
+<text x="90" y="18.5">0 votes</text>
+</g>
+</svg>
