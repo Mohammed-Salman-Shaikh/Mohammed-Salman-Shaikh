@@ -1,36 +1,61 @@
-<h1 align="center">Hi 👋, I'm Salman</h1>
-<h3 align="center">A passionate Java Full Stack Web developer from India</h3>
+<h1 align="center">Hi 👋, I'm Mohammed Salman Shaikh</h1>
+<h3 align="center">Java Backend Developer · Software Engineer at Capgemini, Bangalore</h3>
 
-- 🔭 Building a strong [Portfolio](https://mohammed-salman.vercel.app/)
-
-- 🌱 I’m currently working on **AEM Project** at [Capgemini](https://www.capgemini.com/) as a AEM Developer.
-
-- 🤝 I’m currently building Java Full Stack Application.
-
-- 👨‍💻 All of my projects are available at [Portfolio](https://mohammed-salman.vercel.app/project)
-
-- 💬 Ask me about **HFT**
-
-- 📫 You can reach me by [mail](salmanmohammed703+github@gmail.com)
-
-- 📄 Know about my experiences [Resume](https://mohammed-salman.vercel.app/resume)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/salluarsh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="salluarsh" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mohammed--salman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammed--salman" height="30" width="40" /></a>
-<a href="https://fb.com/100007515610704" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="100007515610704" height="30" width="40" /></a>
-<a href="https://instagram.com/salluarsh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="salluarsh" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/@arshahamed7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@arshahamed7" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/user3601n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="user3601n" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/salluarsh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="salluarsh" height="30" width="40" /></a>
-<a href="https://www.codingninjas.com/codestudio/profile/d509ed54-f725-4d73-ad49-f4d9a447381c" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://www.codingninjas.com/codestudio/profile/d509ed54-f725-4d73-ad49-f4d9a447381c" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://Mohammed-Salman-Shaikh.github.io/"><img src="https://img.shields.io/badge/Portfolio-mohammed--salman--shaikh.github.io-0A66C2?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/mohammed--salman/"><img src="https://img.shields.io/badge/LinkedIn-mohammed--salman-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:salmanmohammed703@gmail.com"><img src="https://img.shields.io/badge/Email-salmanmohammed703%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+## About me
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/https://bmc.link/salluarsh"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://bmc.link/salluarsh" /></a></p><br><br>
+- 💼 **Software Engineer at [Capgemini](https://www.capgemini.com/)**, Bangalore, since June 2024 (2+ years).
+- ☕ I build server-side applications with **Java, Spring Boot, Hibernate/JPA and RESTful APIs**, plus **Adobe Experience Manager (AEM 6.5)** with OSGi and Sling.
+- 🏗️ At work: backend services for Atlas Copco's global career portal, an automated job-expiry feature, and an event-driven asset-publish notification system, deployed on Microsoft Azure with Maven and Jenkins CI/CD.
+- 🤖 Side project: **ChatIQ**, a full-stack AI chat app (MERN + OpenAI API) with JWT auth and persistent chat history.
+- 🎯 Open to **Java Backend**, **AEM** and **Java + AI** roles.
+- 🏅 Adobe Certified Professional: AEM ([verify](https://certification.adobe.com/credential/verify/1ea7d9d0-df6f-11ef-9883-42010a40002a)) · AWS Certified Cloud Practitioner
+- 🌐 Everything about me, including my resume and projects: **[Mohammed-Salman-Shaikh.github.io](https://Mohammed-Salman-Shaikh.github.io/)**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohammed-salman-shaikh&" alt="mohammed-salman-shaikh" /></p>
+## Tech stack
+
+| Area | Skills |
+| --- | --- |
+| Languages | Java, JavaScript, Groovy |
+| Backend & Frameworks | Spring Boot, Spring MVC, Hibernate, JPA, RESTful API Design, Microservices, Node.js |
+| Adobe Experience Manager | AEM 6.5, OSGi, Sling Servlets, JCR |
+| Databases | SQL, MySQL, MongoDB |
+| Cloud & CI/CD | Microsoft Azure, AWS, Jenkins, CI/CD Pipelines |
+| Build & Version Control | Maven, Git, GitHub |
+| Testing | JUnit, Unit Testing |
+| Frontend | React.js, HTML, CSS |
+| Java & CS Fundamentals | Object-Oriented Design (OOP), Collections, Exception Handling, Data Structures, Algorithms |
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,js,nodejs,mysql,mongodb,azure,aws,jenkins,maven,git,github,react,html,css&perline=8" alt="Tech stack icons" />
+</p>
+
+## GitHub activity
+
+<p align="center">
+  <a href="https://github.com/Mohammed-Salman-Shaikh">
+    <img src="https://streak-stats.demolab.com/?user=Mohammed-Salman-Shaikh&theme=transparent&hide_border=true" alt="GitHub contribution streak" />
+  </a>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mohammed-Salman-Shaikh/Mohammed-Salman-Shaikh/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mohammed-Salman-Shaikh/Mohammed-Salman-Shaikh/output/github-snake.svg" />
+    <img alt="Snake eating my GitHub contribution graph" src="https://raw.githubusercontent.com/Mohammed-Salman-Shaikh/Mohammed-Salman-Shaikh/output/github-snake.svg" />
+  </picture>
+</p>
+
+## Find me elsewhere
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/mohammed--salman/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://leetcode.com/user3601n"><img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+  <a href="https://auth.geeksforgeeks.org/user/salluarsh"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" /></a>
+  <a href="https://twitter.com/salluarsh"><img src="https://img.shields.io/badge/X-000000?logo=x&logoColor=white" alt="X (Twitter)" /></a>
+</p>
