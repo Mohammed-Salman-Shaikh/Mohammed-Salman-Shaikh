@@ -55,7 +55,7 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/mohammed--salman/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://leetcode.com/user3601n"><img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+  <a href="https://leetcode.com/u/salman26/"><img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black" alt="LeetCode" /></a>
   <a href="https://auth.geeksforgeeks.org/user/salluarsh"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" /></a>
   <a href="https://twitter.com/salluarsh"><img src="https://img.shields.io/badge/X-000000?logo=x&logoColor=white" alt="X (Twitter)" /></a>
 </p>
